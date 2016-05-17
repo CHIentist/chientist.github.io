@@ -1,19 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
   <body>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+    <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+      {% include header.html %}
+      </div>
+    </div>
+      <div class="row">
+        <div class="col-md-8" style="min-height:500px;">
         {{ content }}
+        </div>
+        <div class="col-md-4">
+        {% include sidebar.html %}
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-md-12">
+      <hr />
+        {% include footer.html %}
       </div>
     </div>
 
-    {% include footer.html %}
+    </div>
 
   </body>
 

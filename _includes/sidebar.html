@@ -1,0 +1,64 @@
+<h3>Mailing list</h3>
+
+<p>Subscribe to our mailing list to recieve news and updates!</p>
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<form action="//chientist.us13.list-manage.com/subscribe/post?u=c2e66cb2e81b86be00a27ee4d&amp;id=21dbac1a90" method="post" name="mc-embedded-subscribe-form" class="form-inline validate" target="_blank" novalidate>
+ <div class="form-group">
+	
+	<input type="email" class="form-control" value="" name="EMAIL" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c2e66cb2e81b86be00a27ee4d_21dbac1a90" tabindex="-1" value=""></div><input type="submit" value="Subscribe" name="subscribe"  class="btn btn-primary" >
+    </div>
+</form>
+
+<!--End mc_embed_signup-->
+
+<h3>Upcoming Events</h3>
+
+ 
+{% for e in site.categories.event %}
+
+<a href="{{ e.url }}">
+<time datetime="{{ e.date_of_event }}" class="icon pull-left">
+  <em>{{ e.date_of_event | date: '%A' }}</em>
+  <strong>{{ e.date_of_event | date: '%B' }}</strong>
+  <span>{{ e.date_of_event | date: '%d' }}</span>
+</time>
+</a>
+<h4 style="padding-top:5px;"><a href="{{ e.url }}">{{ e.title }}</a></h4>	
+<p>
+	  <em>{{ e.location }}</em><br />
+      <strong>{{ e.time_of_event }}</strong>
+      </p>
+
+<div style="clear:both;"></div>
+<hr />
+{% endfor %}
+
+
+<h3>Follow Us</h3>
+
+<a href="https://www.facebook.com/CHIentist-1509929402655890/" class="btn btn-social-icon btn-lg btn-facebook">
+    <i class="fa fa-facebook"></i>
+</a>
+
+<a href="https://twitter.com/chientist" class="btn btn-social-icon btn-lg btn-twitter">
+    <i class="fa fa-twitter"></i>
+</a>
+
+<a href="https://www.linkedin.com/groups/6732945/profile" class="btn btn-social-icon btn-lg btn-linkedin">
+    <i class="fa fa-linkedin"></i>
+</a>
+
+<hr />
+
+
+<a class="twitter-timeline" href="https://twitter.com/CHIentist" data-widget-id="732380613160931328">Tweets by @CHIentist</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

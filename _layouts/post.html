@@ -5,8 +5,17 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
+
+{% if page.categories contains "event" %}
+
+<ul>
+	<li><strong>Date:</strong> {{ page.date_of_event | date: "%b %-d, %Y" }}</li>
+	<li><strong>Time:</strong> {{ page.time_of_event }}</li>
+	<li><strong>Location:</strong> {{ page.location }}</li>
+</ul>
+
+{% endif %}
 
   <article class="post-content">
     {{ content }}
