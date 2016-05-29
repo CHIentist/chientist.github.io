@@ -2,10 +2,24 @@
 layout: default
 ---
 
-<div class="jumbotron" style="padding-top:">
-<div style="text-align: center;">
-  <h2 style="margin-top:0px;">Welcome</h2>
-</div>
-<p style="text-align: justify">CHIentist is a grassroots initiative that seeks to create a sense of community and build new connections among life scientists and professionals in the Chicago area by encouraging networking on a regular basis. Our organization provides a platform for in-person and virtual communication, exchanges of ideas and opportunities, and the maintenance of interpersonal bonds that support future career endeavors. CHIentist helps to bridge the gap between long separated groups under a common interest in science and a desire for a collaborative and nurturing community in Chicago.</p>
+<div class="well">
+  <h4 style="margin-top:0px;">Welcome</h2>
+<p style="text-align: justify">CHIentist is a grassroots initiative that seeks to create a sense of community and build new connections among life scientists and professionals in the Chicago area. <a href="/about/" type="button" class="btn btn-xs btn-primary">Learn More!</a></p>
 </div>
 <h2>News &amp; Updates</h2>
+ {% for post in site.posts %}
+ <h3>{{ post.title }}</h3>
+
+{% if post.categories contains "event" %}
+
+<ul>
+  <li><strong>Date:</strong> {{ post.date_of_event | date: "%b %-d, %Y" }}</li>
+  <li><strong>Time:</strong> {{ post.time_of_event }}</li>
+  <li><strong>Location:</strong> {{ post.location }}</li>
+</ul>
+
+{% endif %}
+
+ {{ post.content }}
+
+ {% endfor %}
