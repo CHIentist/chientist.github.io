@@ -21,10 +21,10 @@
 <!--End mc_embed_signup-->
 
 <h3>Upcoming Events</h3>
-
+<p>We're currently planning another networking event to take place early this winter. Please stay tuned for details. Subscribe to our mailing list to the right to make sure you don't miss out!</p>
  
 {% for e in site.categories.event %}
-
+<!--
 <a href="{{ e.url }}">
 <time datetime="{{ e.date_of_event }}" class="icon pull-left">
   <em>{{ e.date_of_event | date: '%A' }}</em>
@@ -37,7 +37,7 @@
 	  <em>{{ e.location }}</em><br />
       <strong>{{ e.time_of_event }}</strong>
       </p>
-
+-->
 <div style="clear:both;"></div>
 <hr />
 {% endfor %}

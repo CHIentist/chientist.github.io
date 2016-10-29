@@ -6,41 +6,51 @@ permalink: /members/
 
 
 {% for member in site.data.members %}
+	{% if member.previous_member == false %}
 
-<div class="row">
-<div class="col-md-4 col-sm-12 col-xs-12">
-	<div class="thumbnail img-responsive" style="float:left; margin-right:25px; margin-top:50px;">
-		<img src="/assets/img/people/{{ member.Name|slugify }}.jpg" alt="{{ member.Name }}" />
+	<div class="row">
+	<div class="col-md-4 col-sm-12 col-xs-12">
+		<div class="thumbnail img-responsive" style="float:left; margin-right:25px; margin-top:50px;">
+			<img src="/assets/img/people/{{ member.Name|slugify }}.jpg" alt="{{ member.Name }}" />
+		</div>
 	</div>
-</div>
 
-<div class="col-md-8 col-sm-12 col-xs-12">
-	<h2>{{ member.Name }}</h2>
-	<em><strong>
-	{% for role in member.Roles %}
-		{{ role }}
-		{% for chairperson in member.Chair %}
-			{% if role == chairperson %}
-				(chair)
-			{% endif %}
-		{% endfor %}<br />
-	{% endfor %}
-	</strong></em>
+	<div class="col-md-8 col-sm-12 col-xs-12">
+		<h2>{{ member.Name }}</h2>
+		<em><strong>
+		{% for role in member.Roles %}
+			{{ role }}
+			{% for chairperson in member.Chair %}
+				{% if role == chairperson %}
+					(chair)
+				{% endif %}
+			{% endfor %}<br />
+		{% endfor %}
+		</strong></em>
 
-	<ul style="margin-top:20px; padding-left: 0px; list-style-type: none;">
-	{% if member.Email %}
-	<li><a href="mailto:{{ member.Email }}"><i class="glyphicon glyphicon-envelope"></i> {{ member.Email }}</a></li>
+		<ul style="margin-top:20px; padding-left: 0px; list-style-type: none;">
+		{% if member.Email %}
+		<li><a href="mailto:{{ member.Email }}"><i class="glyphicon glyphicon-envelope"></i> {{ member.Email }}</a></li>
+		{% endif %}
+		{% if member.LinkedIn %}
+			<li><a href="https://www.linkedin.com/in/{{ member.LinkedIn }}">
+			    <span class="fa fa-linkedin"></span> Linked In
+			</a>
+			</li>
+		{% endif %}
+		</ul>
+		<p>{{ member.Description }}</p>
+
+	</div>
+	</div>
 	{% endif %}
-	{% if member.LinkedIn %}
-		<li><a href="https://www.linkedin.com/in/{{ member.LinkedIn }}">
-		    <span class="fa fa-linkedin"></span> Linked In
-		</a>
-		</li>
+{% endfor %}
+
+
+<h2>Previous Members</h2>
+<hr />
+{% for member in site.data.members %}
+	{% if member.previous_member == true %}
+	<h4>{{ member.Name }}</h4>
 	{% endif %}
-	</ul>
-	<p>{{ member.Description }}</p>
-
-</div>
-</div>
-
 {% endfor %}
