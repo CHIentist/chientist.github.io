@@ -10,7 +10,7 @@ permalink: /members/
 
 	<div class="row">
 	<div class="col-md-4 col-sm-12 col-xs-12">
-		<div class="thumbnail img-responsive" style="float:left; margin-right:25px; margin-top:50px;">
+		<div class="thumbnail img-responsive" style="float:left; margin-right:25px; margin-top:20px;">
 			<img src="/assets/img/people/{{ member.Name|slugify }}.jpg" alt="{{ member.Name }}" />
 		</div>
 	</div>
@@ -38,8 +38,8 @@ permalink: /members/
 			</a>
 			</li>
 		{% endif %}
+		<li>{{ member.Institution}}</li>
 		</ul>
-		<p>{{ member.Description }}</p>
 
 	</div>
 	</div>
