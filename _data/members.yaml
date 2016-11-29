@@ -45,15 +45,12 @@
 - Name: Harider S. Grewal
   Institution: University of Illinois at Chicago
   previous_member: False
-  Roles: 
-    - "Sponsorship Committee"
-    - "Public Communications Committee"
-  Description: Post-doctoral fellow at the University of Illinois at Chicago (UIC) working in the field of neurosciences for identifying biomarkers for neuropsychiatric disorders and developing assays in testing efficacy of antidepressant medications.  Harinder received his PhD from Temple University School of Medicine, Philadelphia and currently serves on the executive board of Post-doctoral Association at UIC. Harinder was closely involved in organizing Future of Research (FOR) Chicago symposium in Oct 2015. He works part-time as a freelance medical writer and scientific consultant.  His other interests include, photography, theater arts, graphic designing and brewing. Harinder can be reached at grewalsynapse@gmail.com, on linkedin or visit his webpage.
+  Roles: Member
   Email: grewalsynapse@gmail.com
 
 - Name: Brian Cheng
   previous_member: False
-  Roles: "Public Communications Committee"
+  Roles: Member
   Institution: University of Chicago
   LinkedIn: brian-cheng-73798828
 
@@ -82,6 +79,17 @@
   Roles: "Member"
   previous_member: False
 
+- Name: Aurelie Desgardin
+  previous_member: False
+  Roles: Member
+
+- Name: Joshua Eassa
+  previous_member: False
+  Roles: Member
+
+- Name: Brian Ferguson
+  previous_member: False
+  Roles: Member
 
 - Name: Abir Mukherjee
   previous_member: False
