@@ -1,0 +1,1412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"highligh",
+				"highlight_set_buttons〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"ull",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"groov",
+				"Set Syntax: Groovy"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"groovy",
+				"Set Syntax: Groovy"
+			],
+			[
+				"format",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"syntaxgroo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"send",
+				"SendREPL: Choose REPL Program"
+			],
+			[
+				"choose",
+				"SendREPL: Choose REPL Program"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"input-text",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"snippet form",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"snippet list",
+				"Snippet: bs3-list-group-content"
+			],
+			[
+				"stash",
+				"Git: Stash Drop"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"button",
+				"Snippet: bs3-button"
+			],
+			[
+				"checkbox",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"bs3 table",
+				"Snippet: bs3-table"
+			],
+			[
+				"bs3 input",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3 form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"mv",
+				"File: Move"
+			],
+			[
+				"prettif",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prettify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"add f",
+				"Git: Add Current File"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"disble",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"linter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"git re",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git stash",
+				"Git: Stash Changes"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jekyll",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielcook/Documents/git/chientist.github.io"
+	],
+	"file_history":
+	[
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/0DF9E06D-D101-4D3F-AF2D-4F62ED347BE5/.htaccess",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/C1633FB0-413D-41D4-A711-ED7260F9CB1B/.htaccess",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/DA7201CD-0783-4EF4-B5AE-128799D2AF18/.htaccess",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/3B54B27C-BDA8-4FE9-9B4A-2DBDD78AE032/.htaccess",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/AC8C8827-1183-481B-8EB8-5AE0A76959D2/bootstrap2.css",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/C9C2D33C-4577-4C01-BD69-B1ECF22C8DE6/functions.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/208A7BE8-B700-485B-95E9-950E94DE74B3/page-header.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/BBB2635E-D221-49B7-8D03-552409401F78/wp-blog-header.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/6FBD3A40-7BE6-4088-A867-05A00D853C20/base.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/ECBD009A-CB6F-49B1-A872-ECB668900AAE/head.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/34EC1F5C-8FD4-4E4A-AFBF-36A19CE6C1FF/page-header.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/115B86E9-28D9-41F5-AF03-4A15B8F40D49/header-top-navbar.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/6D317C88-E189-4CB6-AB4B-88C8ED96E1F7/bootstrap2.css",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/1B3A0897-E2C0-4472-A689-855BB841BB2D/news.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/97096A05-A3C4-4D45-93A5-821A449F2E74/footer.php",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/752F995D-B998-473F-89D9-69D2FC12E426/error_log",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/7BEF801D-EF38-4B4C-9F56-59981D07EEE6/print.less",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/E6A10E48-C0A1-4C57-BEA0-DC7405769FFB/print.less",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/309E6BEA-2C57-480E-A0CC-7AAA1FB8D8DB/extra.less",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/815389A8-D134-4B14-95A0-0ADB8D80B062/.htaccess",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/3C5A2BC3-6088-46FF-8B2B-B228D368B090/wp-embed.js",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/3755B3E0-AC4E-410B-881A-B674F7A34526/.lastlogin",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/F1514F7B-B429-4682-8638-28F3EE673BC7/.ftpquota",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/73A72C8B-EE90-4768-B10F-BBC4ABD55660/mckenna-storer.com-Jan-2017.gz",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/4B7B17BA-ABF2-47C4-BF29-1FF1177628BB/.bashrc",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/32D1F5E0-2B5D-4FE3-97D4-895C6421A548/.bash_profile",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/DA106B7E-8E18-4ECD-9CBF-1D6053DCE34E/.contactemail",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/777A8582-C173-4F5D-8AD6-FA22001C8949/.zshrc",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/88E6BA1D-B455-4F72-A4CC-5BD84827E566/.contactemail",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/EA0AC533-1194-4332-9D96-2494A0DD2DA1/.gemrc",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/019E536B-642E-4BC1-9D8B-691D4E27959F/.lastlogin",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/B79F616B-3FD7-4731-8774-9E6E0770E96E/mckenna-storer.com-Jan-2017.gz",
+		"/Users/danielcook/Desktop/untitled folder/mckenna-storer.com-Jan-2017",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/686371A0-6564-4DE7-A0CC-707FF011F90C/wp.26_13521.2017-01-16_20-20-01",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/9A52AEC6-7CC1-460B-9394-473F7FD946F5/print.css",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/10F98B90-27B4-4BEA-91DC-7EA1968EF6B0/bootstrap2.css",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/B1C72F97-F11C-491C-9455-0035CEA8C8CF/process_image.py",
+		"/Users/danielcook/Documents/git/danielecook.github.io/_posts/2017/2017-01-15-alfred-image-utilties.md",
+		"/Users/danielcook/Documents/git/danielecook.github.io/danielecook.sublime-project",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/alfred-image-utilities/main.py",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/alfred-image-utilities/README.md",
+		"/Users/danielcook/Documents/git/alfred-workflows/build.py",
+		"/Users/danielcook/Documents/git/self/README.md",
+		"/Users/danielcook/Documents/git/worm-counter/run.py",
+		"/Users/danielcook/Documents/git/worm-counter/requirements.txt",
+		"/Users/danielcook/Documents/git/worm-counter/scripts/process.py",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/B86BB45B-0E28-451B-A59B-222E51700918/process_image.py",
+		"/Users/danielcook/Documents/git/worm-counter/processed/process_images.py",
+		"/Users/danielcook/Documents/git/worm-counter/images/process_images.py",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/AD0131AE-6C8F-407D-915F-C6C07200D7D2/main.nf",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/alfred-image-utilities/convert.py",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/9C55BFE6-B240-4839-BB0D-8FE3AC9CB724/main.nf",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/gist-alfred-d343ec78f169d1355467a73b66ac15d5449fdc49/gist.py",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/gist-alfred/gist.py",
+		"/Users/danielcook/Documents/git/worm-counter/data/human_counts.tsv",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/image-utilities/convert.py",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/Alfred.alfredpreferences/workflows/image-utilities/main.py",
+		"/Users/danielcook/Documents/git/self/self.sublime-project",
+		"/Users/danielcook/Documents/git/self/functions/fetch_pushups/main.py",
+		"/Users/danielcook/Documents/git/worm-counter/scripts/results.tsv",
+		"/Users/danielcook/Documents/git/worm-counter/scripts/results copy.tsv",
+		"/Users/danielcook/Documents/git/worm-counter/scripts/results2.tsv",
+		"/Users/danielcook/Documents/git/danielecook.github.io/_posts/2017/2017-01-05-useful-bash.sh",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/B60E3E55-481C-4C51-B388-1EB0EF1CBC68/config",
+		"/Users/danielcook/Downloads/snpEff_genes.txt",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/2A4F8096-454F-4797-A5FF-EE019AE94FB9/main.nf",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/82BDC162-6F29-4970-A470-005F15AF4DB2/filtered.stats.txt",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/CC12F3DA-0AA8-4838-8C3B-1997B74538D0/gtcheck.tsv",
+		"/Users/danielcook/Dropbox/Andersenlab/Reagents/WormReagents/Variation/Andersen_VCF/snpEff_genes.txt",
+		"/Users/danielcook/Library/Application Support/Alfred 2/Workflow Data/net.deanishe.alfred-sublime-text-projects/settings.json",
+		"/Users/danielcook/Documents/quest/ril-nf/analysis/2017-01-09-RIL/SM/2017-01-09.SM_coverage.full.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/442AA74A-E10F-4BA0-B955-D3332D410D9C/2017-01-10.bam_duplicates.tsv",
+		"/Users/danielcook/Dropbox/Andersenlab/Reagents/WormReagents/Variation/Andersen_VCF/README.md",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/Learning/C/test.c",
+		"/Users/danielcook/Documents/git/cegwas-web/requirements.txt",
+		"/Users/danielcook/Documents/git/cegwas-web/lib/pkg_resources/__init__.py",
+		"/Users/danielcook/Documents/git/cegwas-web/cendr/task/pipeline.R",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/7E520276-7A8B-412E-A96E-9BD816844C4F/2017-01-10.fq_coverage.tsv",
+		"/Users/danielcook/Documents/git/cegwas-web/cendr/task/startup-script.sh",
+		"/Users/danielcook/Documents/google-cloud-sdk/platform/google_appengine/lib/cacerts/urlfetch_cacerts.txt",
+		"/Users/danielcook/Dropbox/Andersenlab/FinishedPapers/2016 Cook et al. Genetics/Telomere-pot-2-manuscript/data/telomeres/isotype_telomere_length.tsv",
+		"/Users/danielcook/Documents/git/andersenlab.github.io/_site/Publications/Cooketal/File S08 - TelSeq telomere length estimates among wild isolates.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/491E8A15-6FA6-4490-8BBC-AA5CEFD05870/2017-01-10.fq_bam_stats.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/DF4C8FBE-D91F-4DD0-8110-DB4D03C60039/2017-01-10.fq_bam_idxstats.tsv",
+		"/Users/danielcook/Documents/quest/concordance-nf/main.nf",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/4CACC2BC-3FCE-46E7-8790-92F665A455C2/nextflow.config",
+		"/Users/danielcook/Documents/quest/ril-nf/main.nf",
+		"/Users/danielcook/Documents/quest/ril-nf/nextflow.config",
+		"/Users/danielcook/Documents/quest/ril-nf/analysis/2017-01-09-RIL/bam/2017-01-09.SM_bam_stats.tsv",
+		"/Users/danielcook/Documents/quest/ril-nf/analysis/2017-01-09-RIL/fq/2017-01-09.fq_bam_stats.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/8C30F5F5-98F8-4A02-B109-B20542DFB0F9/2017-01-08.SM_coverage.tsv",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/project.json",
+		"/Users/danielcook/Documents/git/self/functions/generate_profile/main.py",
+		"/Users/danielcook/Documents/git/self/functions/workout_calendar/main.py",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/E37854C1-A25B-4DDD-AFC3-E828ADAAB8B0/2017-01-08.gtcheck.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/F6A6D327-F7CE-41E6-A4CC-B307640C966F/2017-01-08.union_vcfs.txt",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/50449FDD-3179-4BC0-AD6F-B80DF2778224/2017-01-08.SM_coverage.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/F8C1CC79-8315-4380-9198-41E4628C8A3B/2017-01-08.stats.txt",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/700644DA-AF00-46DF-8453-1E924AF709A9/2017-01-08.gtcheck.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/5E72A320-B5F9-49E0-9336-BFD7065B413E/main.nf",
+		"/Users/danielcook/Documents/quest/ril-nf/README.md",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/95209C8C-BBF5-4312-AAEA-E6F57B031590/conc_snps_union.sh",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/05266476-0718-416A-9C20-3C3CF54EDB94/bcftools_union.sh",
+		"/Users/danielcook/Downloads/dan-self_workout_calendar (2).ics",
+		"/Users/danielcook/Downloads/dan-self_workout_calendar (1).ics",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/0EBB32F5-A3D8-44A4-AB99-468A2CC19481/2017-01-08.fq_coverage.tsv",
+		"/Users/danielcook/Documents/quest/ril-nf/analysis/2017-01-09-RIL/2017-01-09.fq_bam_stats.tsv",
+		"/Users/danielcook/Documents/git/self/functions/fetch_fitness/main.py",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/appdata/bash_sync.sh",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/functions/generate_profile/main.py",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/mckenna/mckenna/spiders/profile.py",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/mckenna/template.html",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/mckenna/generate_pdf.py",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/mckenna/readme.md",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/mckenna/Dockerfile",
+		"/Users/danielcook/Documents/git/mckenna-profiles-pdf/mckenna/test.html",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/D34E1F15-0BD2-474B-9ECC-C9C28D5B1136/setup.nf",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/03BA7B09-23DE-45D5-8EE5-0C39DA4D34EF/strain_set.json",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/647EBDB9-D198-4538-B117-26C1C2A9C8A7/2017-01-08.SM_coverage.tsv",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/60228040-7B21-489D-BEBD-8052D2C6079D/main.nf",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/9DFDABF9-FC67-4072-A3EE-8B20A60B2FEA/dag.dot.1",
+		"/Users/danielcook/Documents/quest/concordance.dot",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/FF83D8D0-7213-42FC-8860-B3704A217DA6/setup.nf",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/D36AAD54-30C9-4DEB-B429-D9ADE5BE97E7/config",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/00BBD8F9-C537-41D8-9E69-DADB4ADF301A/trace.txt.1",
+		"/Users/danielcook/Library/Caches/Cleanup At Startup/Transmit/0B731505-E358-4C56-BC3D-AB28948D432A/trace.txt",
+		"/Users/danielcook/Dropbox/Andersenlab/LabFolders/Dan/Projects/20170108-morbid_map/process.sh",
+		"/Users/danielcook/Downloads/tes_cender.bed"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"qs.efetch",
+			"article_by_pmid",
+			"url",
+			"501",
+			"csbwfs-delaydiv",
+			"files",
+			"cmd",
+			"total_q",
+			"count",
+			"args[\"count",
+			"count",
+			"args",
+			"crop_and_filter_plate",
+			"fotate",
+			"degree ",
+			"degree = \"",
+			"degree",
+			"Delete Original",
+			"delete_originals",
+			"PIL",
+			"edges",
+			"[ ]+",
+			"[ ]{2,50}",
+			"doh\\t",
+			"dog\\t",
+			"log\\t",
+			"fname",
+			"blob",
+			"circle_perimeter",
+			"feature",
+			"image",
+			"imread",
+			"023A83",
+			"CB4852",
+			".vcf",
+			"coverage_SM",
+			"gtcheck",
+			"--verbose",
+			"duplicates",
+			"/bam",
+			"fq_idx_stats",
+			"bam_duplicates_summary",
+			"duplicates_summary",
+			"fq_bams_stats",
+			"merged_fq_bamstats",
+			"merged_fq",
+			"merged_fq_idxstats",
+			"duplicates",
+			"AB3",
+			"event",
+			"SM_merge",
+			"sitelist",
+			"[\\W]+",
+			"merged_bams_union",
+			"sitelist",
+			"merged_bams_union",
+			"strain_set",
+			"gz_sitelist",
+			"CB4858",
+			"/projects/b1059/data/fastq/RIL/dna/processed/150225_D00422_0165_BHGMN3ADXX/",
+			"EA-C05_CCGATTG_L001_1P.fq.gz",
+			"date",
+			"WI",
+			"N2",
+			"cpus",
+			"raw",
+			"EA2_NIC277_GGACTCCT-TATCCTCT_L002_1P.fq.gz",
+			":",
+			"description",
+			"prefix",
+			"Supplemental_Table",
+			"  ",
+			"^",
+			"elegans",
+			"VCF_SET",
+			"merged_SM_union",
+			"VCF_SET",
+			"merged_bams_union",
+			"groupTuple",
+			"publishDir",
+			"500",
+			"$",
+			"/projects/.*",
+			"'move'",
+			"union_vcf_set",
+			"from",
+			"bamfile",
+			"nuclear",
+			"length",
+			"output_line",
+			"header",
+			"tsv",
+			", args[\"--tsv\"]",
+			"eav",
+			"bam_name",
+			"eav",
+			".bam",
+			"tmp_dir",
+			"library\": \"ECA",
+			"requests",
+			"params.",
+			"-m 2",
+			"AB3.AB2",
+			"ED3010.*",
+			"ED3010.*ED3012",
+			"ED3042.*ED3048",
+			"os.rm",
+			"call",
+			"wormbase",
+			",",
+			"AB3",
+			"generate_channels",
+			",",
+			"TAAGCC",
+			"WI",
+			"RET7[ab]\\t",
+			"RET6[ab]\\t",
+			"RET5[ab]\\t",
+			"RET4[ab]\\t",
+			"RET3[ab]\\t",
+			"RET2[ab]\\t",
+			"RET1b\\t",
+			"RET1a\\t",
+			"query_item",
+			"dump",
+			"GCC",
+			"TAAGGC",
+			"TAAGCC"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Replace original",
+			"replace",
+			"\\t",
+			"\\tdoh\\t",
+			"\\tdog\\t",
+			"\\tlog\\t",
+			"\\tlog\\",
+			"bam_duplicates",
+			"bam_duplicates_summary",
+			"fq_stats_bam",
+			"fq_pair_id_bamstats",
+			"fq_pair_id_idxstats",
+			"\\\\t",
+			"/Users/danielcook/Documents/quest/ril-nf/test_data/",
+			": ",
+			"caption",
+			"title",
+			"10",
+			"",
+			"output_line",
+			"tmpdir",
+			"",
+			"- ${min_kmer_count}",
+			"\\n",
+			"WI_ISOTYPE",
+			"RET7\\t",
+			"RET6\\t",
+			"RET5\\t",
+			"RET4\\t",
+			"RET3\\t",
+			"RET2\\t",
+			"RET1\\t",
+			"RET1",
+			"\\t",
+			"MA/dna/",
+			"law",
+			"strong",
+			"\\t",
+			"font-weight: 300",
+			"",
+			"menu-list",
+			"<?php ",
+			"<?php",
+			"td",
+			"",
+			"--ANN",
+			"./dont_use",
+			"Rockman",
+			"/static/report/",
+			"previous_names",
+			"warning_message",
+			"\\t",
+			"\\n",
+			"|",
+			"",
+			"\\n",
+			"20px",
+			"../img/icons/",
+			"\\n",
+			"",
+			"strain_snps/",
+			"",
+			"\\t",
+			"tb_filter_2_DP",
+			"tb_filter_2",
+			"AF2_DP10",
+			"",
+			"posts_collage",
+			"\\n",
+			"http"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/User/Tomorrow (SL) (SublimePythonIDE).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": null,
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1484540331.26
+							},
+							"default_dir": "/Users/danielcook/Documents/git/chientist.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 400.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 209.0
+	},
+	"pinned_build_system": "Packages/User/pyenv.sublime-build",
+	"project": "chientist.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"alfred-im",
+				"_posts/2017/2017-01-15-alfred-image-utilties.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"",
+				"~/Documents/git/worm-counter/data/human_counts.tsv"
+			],
+			[
+				"main",
+				"main.nf"
+			],
+			[
+				"confi",
+				"nextflow.config"
+			],
+			[
+				"next",
+				"nextflow.config"
+			],
+			[
+				"2017",
+				"pages/publications/2017Laricchia.html"
+			],
+			[
+				"data",
+				"_layouts/publication_data.html"
+			],
+			[
+				"publi",
+				"_layouts/publication_data.html"
+			],
+			[
+				"data.",
+				"pages/data.html"
+			],
+			[
+				"people",
+				"pages/people.html"
+			],
+			[
+				"pubs_",
+				"_data/pubs_data.yaml"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ma",
+				"main.nf"
+			],
+			[
+				"strain",
+				"strain_set.json"
+			],
+			[
+				"req",
+				"bam-toolbox/requirements.txt"
+			],
+			[
+				"setup",
+				"bam-toolbox/setup.py"
+			],
+			[
+				"geno",
+				"vcf-kit/vcfkit/geno.py"
+			],
+			[
+				"setu",
+				"setup.py"
+			],
+			[
+				"vk",
+				"vcfkit/vk.py"
+			],
+			[
+				"genome.py",
+				"vcfkit/genome.py"
+			],
+			[
+				"genome",
+				"docs/genome.md"
+			],
+			[
+				"trimm",
+				"~/Library/Caches/Cleanup At Startup/Transmit/785D752A-462B-4B3A-9FE4-2AFE8F1F9580/trimmomatic.nf"
+			],
+			[
+				"fqp",
+				"fastq-profiler/fq/fqprofile.py"
+			],
+			[
+				"fq",
+				"fastq-profiler/fq/fqprofile.py"
+			],
+			[
+				"rea",
+				"fastq-profiler/README.md"
+			],
+			[
+				"fqpro",
+				"~/Documents/git/fastq-profiler/fq/fqprofile.py"
+			],
+			[
+				"by",
+				"alfred-workflows/build.py"
+			],
+			[
+				"fastq",
+				"_posts/2016/2016-12-16-fastq-profiler.md"
+			],
+			[
+				"build",
+				"alfred-workflows/build.py"
+			],
+			[
+				"default.html",
+				"cegwas-web/cendr/templates/_layouts/default.html"
+			],
+			[
+				"defa",
+				"cegwas-web/lib/jinja2/defaults.py"
+			],
+			[
+				"change",
+				"cegwas-web/cendr/static/content/help/Change-Log.md"
+			],
+			[
+				"cate",
+				"categories.html"
+			],
+			[
+				"pages_list",
+				"_includes/pages_list"
+			],
+			[
+				"quiv",
+				"_site/Quiver-alfred.html"
+			],
+			[
+				"pages_",
+				"_includes/pages_list"
+			],
+			[
+				"cat",
+				"categories.html"
+			],
+			[
+				"author",
+				"author_index.html"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"tag",
+				"tags.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"bu",
+				"build.py"
+			],
+			[
+				"popul",
+				"popular.html"
+			],
+			[
+				"su",
+				"submit.html"
+			],
+			[
+				"nav",
+				"_includes/navbar.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"popu",
+				"popular.html"
+			],
+			[
+				"navba",
+				"_includes/navbar.html"
+			],
+			[
+				"catego",
+				"categories.html"
+			],
+			[
+				"tags",
+				"tags.html"
+			],
+			[
+				"bui",
+				"build.py"
+			],
+			[
+				"pop",
+				"popular.html"
+			],
+			[
+				"author_in",
+				"author_index.html"
+			],
+			[
+				"nab",
+				"_includes/navbar.html"
+			],
+			[
+				"fast",
+				"danielecook.github.io/_posts/2016/2016-12-16-fastq-profiler.md"
+			],
+			[
+				"sub",
+				"submit.html"
+			],
+			[
+				"subm",
+				"submit.html"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"buil",
+				"build.py"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"cname",
+				"CNAME"
+			],
+			[
+				"submi",
+				"submit.html"
+			],
+			[
+				"__in",
+				"cegwas-web/cendr/__init__.py"
+			],
+			[
+				"cegwas",
+				"cegwas-web/cendr/cegwas.py"
+			],
+			[
+				"genomes",
+				"~/Documents/git/finding_terc/data/genomes.txt"
+			],
+			[
+				"genom",
+				"vcf-kit/vcfkit/genome.py"
+			],
+			[
+				"set",
+				"setup.py"
+			],
+			[
+				"__init",
+				"vcfkit/__init__.py"
+			],
+			[
+				"primer_vcf",
+				"vcfkit/utils/primer_vcf.py"
+			],
+			[
+				"primer",
+				"vcfkit/primer.py"
+			],
+			[
+				"priemr",
+				"vcfkit/primer.py"
+			],
+			[
+				"blast",
+				"vcfkit/utils/blastn.py"
+			],
+			[
+				"primer3",
+				"vcfkit/utils/primer3.py"
+			],
+			[
+				"primer.md",
+				"docs/primer.md"
+			],
+			[
+				"init",
+				"vcfkit/__init__.py"
+			],
+			[
+				"docs",
+				"mkdocs.yml"
+			],
+			[
+				"vk.p",
+				"vcfkit/vk.py"
+			],
+			[
+				"navb",
+				"~/Documents/git/cegwas-web/cendr/templates/_includes/navbar.html"
+			],
+			[
+				"__ini",
+				"cegwas-web/cendr/__init__.py"
+			],
+			[
+				"map",
+				"cegwas-web/cendr/task/map_submission.py"
+			],
+			[
+				"cron",
+				"cegwas-web/cron.yaml"
+			],
+			[
+				"requi",
+				"cegwas-web/requirements.txt"
+			],
+			[
+				"cegwa",
+				"cegwas-web/cendr/cegwas.py"
+			],
+			[
+				"map_s",
+				"cegwas-web/cendr/task/map_submission.py"
+			],
+			[
+				"app",
+				"cegwas-web/app.yaml"
+			],
+			[
+				"map_su",
+				"cegwas-web/cendr/task/map_submission.py"
+			],
+			[
+				"gwa",
+				"cendr/templates/gwa.html"
+			],
+			[
+				"map_",
+				"cendr/task/map_submission.py"
+			],
+			[
+				"navbar",
+				"cendr/templates/_includes/navbar.html"
+			],
+			[
+				"default",
+				"cendr/templates/_layouts/default.html"
+			],
+			[
+				"defaul",
+				"lib/jinja2/defaults.py"
+			],
+			[
+				"head",
+				"cendr/templates/_includes/head.html"
+			],
+			[
+				"travi",
+				".travis.yml"
+			],
+			[
+				"travis",
+				".travis.yml"
+			],
+			[
+				"test_api",
+				"tests/test_api.py"
+			],
+			[
+				"start",
+				"cendr/task/startup-script.sh"
+			],
+			[
+				"genetic",
+				"cendr/views/genetic_mapping.py"
+			],
+			[
+				"report.",
+				"cendr/templates/report.html"
+			],
+			[
+				"cront",
+				"lib/boto3/examples/cloudfront.rst"
+			],
+			[
+				"queue",
+				"queue.yaml"
+			],
+			[
+				"worker",
+				"worker.yaml"
+			],
+			[
+				"geneti",
+				"cendr/views/genetic_mapping.py"
+			],
+			[
+				"process",
+				"lib/concurrent/futures/process.py"
+			],
+			[
+				"gwa.h",
+				"cendr/templates/gwa.html"
+			],
+			[
+				"genetic_",
+				"cendr/views/genetic_mapping.py"
+			],
+			[
+				"gwa.html",
+				"cendr/templates/gwa.html"
+			],
+			[
+				"model",
+				"cendr/models.py"
+			],
+			[
+				"run",
+				"tests/run_pipeline.py"
+			],
+			[
+				"models",
+				"cendr/models.py"
+			],
+			[
+				"queu",
+				"queue.yaml"
+			],
+			[
+				"genetic_ma",
+				"cendr/views/genetic_mapping.py"
+			],
+			[
+				"genetic_m",
+				"cendr/views/genetic_mapping.py"
+			],
+			[
+				"trav",
+				".travis.yml"
+			],
+			[
+				"__init__",
+				"cendr/__init__.py"
+			],
+			[
+				"version",
+				"lib/flask_cors/version.py"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"blastn",
+				"vcfkit/utils/blastn.py"
+			],
+			[
+				"primer.",
+				"vcf-kit/vcfkit/primer.py"
+			],
+			[
+				"phyl",
+				"vcf-kit/vcfkit/phylo.py"
+			],
+			[
+				"test",
+				"vcf-kit/tests/test.py"
+			],
+			[
+				"test_genome",
+				"vcf-kit/tests/test_genome.py"
+			],
+			[
+				"test_ph",
+				"vcf-kit/tests/test_phylo.py"
+			],
+			[
+				"test_phy",
+				"vcf-kit/tests/test_phylo.py"
+			],
+			[
+				"fasta",
+				"vcf-kit/vcfkit/fasta.py"
+			],
+			[
+				"test_geno",
+				"vcf-kit/tests/test_genome.py"
+			],
+			[
+				"annot",
+				"vcf-kit/vcfkit/annotate.py"
+			],
+			[
+				"ober",
+				"pubs_formatted/Carole Ober.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
