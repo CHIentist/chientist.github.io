@@ -3,20 +3,9 @@
 - Name: David Sullivan
   previous_member: False
   Roles: "President"
-  Institution: Northwestern
+  Institution: Northwestern University
   Email: davidpsullivan2@gmail.com
   LinkedIn: david-sullivan-0aab4833
-  Description: Research Assistant Professor at Northwestern University working in the fields of inflammation,
-               vascular biology, and parasitic protozoans. His research interests focus on utilizing
-               cutting-edge biochemistry and imaging techniques to manipulate
-               and track white blood cells and parasites in a live animal.
-               David received PhD from Cornell University School of Medicine in New York and also
-               has performed research Indiana University and University of Wisconsin
-               before landing in Chicago. He is an active member of the American Society
-               for Investigative Pathology (ASIP) and is involved in programming their national events. 
-               His other interests include backpacking, canoeing, photography, and  graphic designing.
-               David can be reached at <a href="mailto:davidpsullivan2@gmail.com">davidpsullivan2@gmail.com</a> or on <a href="">LinkedIn</a>.
-
 
 
 - Name: Alex Gileta
@@ -24,52 +13,96 @@
   Roles: "Secretary"
   Institution: University of Chicago
   Email: alex.gileta@gmail.com
-  Description: Graduate student in the Department of Human Genetics at the University of Chicago 
-               working on mapping genes influencing complex behaviors related to addiction, using 
-               rats as a model system. Alex has been with CHIentist since its conception in 2013 
-               and previously served as a board member for the University of Chicago Biotechnology
-               Association. He is interested in pursuing a career in clinical genetics and
-               personalized medicine. In his spare time, Alex plays indoor volleyball, softball,
-               and tennis.  He can be reached at <a href="mailto:alex.gileta@gmail.com">alex.gileta@gmail.com</a>.
 
 - Name: Kevin Lei
   previous_member: False
+  Institution: University of Chicago
   Roles: 
     - "Treasurer"
   Chair: 
     - "Treasury/Finance"
 
-
 - Name: Ana Vicente-Sanchez
   previous_member: False
+  Institution: Northwestern University
   Roles: "Chair Fundraising Committee"
   Email: ana.vicente.sanchez@gmail.com
 
 
 - Name: Katie Bailey
   previous_member: False
+  Institution: University of Chicago
   Roles: "Chair Events Committee"
   Email: bailey.kathleenann@gmail.com
 
 
 - Name: Daniel Cook
+  Institution: Northwestern University
   previous_member: False
   Roles: "Chair Public Communications"
 
 
 - Name: Harider S. Grewal
+  Institution: University of Illinois at Chicago
   previous_member: False
-  Roles: 
-    - "Sponsorship Committee"
-    - "Public Communications Committee"
-  Description: Post-doctoral fellow at the University of Illinois at Chicago (UIC) working in the field of neurosciences for identifying biomarkers for neuropsychiatric disorders and developing assays in testing efficacy of antidepressant medications.  Harinder received his PhD from Temple University School of Medicine, Philadelphia and currently serves on the executive board of Post-doctoral Association at UIC. Harinder was closely involved in organizing Future of Research (FOR) Chicago symposium in Oct 2015. He works part-time as a freelance medical writer and scientific consultant.  His other interests include, photography, theater arts, graphic designing and brewing. Harinder can be reached at grewalsynapse@gmail.com, on linkedin or visit his webpage.
+  Roles: Member
   Email: grewalsynapse@gmail.com
 
 - Name: Brian Cheng
   previous_member: False
-  Description: Graduate Student in the Department of Microbiology at the University of Chicago. Brian is currently developing a multivalent vaccine against MRSA soft tissue and skin infection and understanding the protective mechanisms. Brian received his BSc from the University of Ottawa in Canada. He is previously involved with the Chicago Innovation Exchange as an Innovation Fund associate and the Chicago Innovation Mentor fellow program. He is interested in pursuing a career in biotech investment and startups. Brian can be reached via LinkedIn.
-  Roles: "Public Communications Committee"
+  Roles: Member
+  Institution: University of Chicago
   LinkedIn: brian-cheng-73798828
+
+- Name: Manuela Ayee
+  Email: manayee@gmail.com
+  Institution: University of Illinois at Chicago
+  Roles: "Member"
+  previous_member: False
+
+
+- Name: Carole Deyts
+  Institution: University of Chicago 
+  Roles: "Member"
+  previous_member: False
+
+
+- Name: Hyunjin Kim
+  Email: hyunjin1026@gmail.com
+  Institution: University of Illinois at Chicago
+  Roles: "Member"
+  previous_member: False
+
+
+- Name: Jing Li
+  Institution: University of Illinois at Chicago
+  Roles: "Member"
+  previous_member: False
+
+- Name: Aurelie Desgardin
+  previous_member: False
+  Roles: Member
+
+- Name: Joshua Eassa
+  previous_member: False
+  Roles: Member
+
+- Name: Brian Ferguson
+  previous_member: False
+  Roles: Member
+
+- Name: Abir Mukherjee
+  previous_member: False
+  Email: mukherjeeabir01@gmail.com
+  Roles: "Member"
+  Institution: University of Chicago
+
+
+- Name: Siwei Zhang
+  Institution: Northwestern University
+  previous_member: False
+  Email: siwei.zhang84@gmail.com
+  Roles: "Member"
 
 
 - Name: Andre Iovane
@@ -77,18 +110,11 @@
   Institution: Northwestern
   LinkedIn: andreiovane
   previous_member: True
-  Description: Postdoctoral research associate at the Feinberg School of Medicine and
-               M.Sc. Law candidate at the Pritzker School of Law, at Northwestern University.
-               His current work focuses on the molecular mechanisms of angiogenesis,
-               the process of new blood vessels formation. André received his B.Sc. 
-               in Genetics in France and then pursued his studies in Italy where he received his M.Sc. 
-               in Biotechnology and his Ph.D. in Physiopathology from Tor Vergata University in Rome.
-               At Northwestern, André is also strongly involved with the Advanced Degree 
-               Consulting Alliance where he serves on the executive board. Outside science, André is a sommelier,
-               an experienced scuba diver, and a rugby fan. After his appointment at Northwestern, he plans to join the
-               management consulting industry. Feel free to reach out to him through LinkedIn.
 
 - Name: Sarah Schram
   previous_member: True
   Roles: "Event Planning Committee"
   Email: slschram2143@gmail.com
+
+
+

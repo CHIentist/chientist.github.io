@@ -6,11 +6,19 @@ permalink: /sponsors/
 
 <p>We are actively seeking for corporate and academic sponsorship for our networking events.</p>
 <div class='row'>
-{% for sponsor in site.data.sponsors %}
+{% for column in site.data.sponsors %}
     <div class='col-lg-6'>
+{% for sponsor in column %}
     <div class='thumbnail'>
-        <a href="{{ sponsor.url }}"><img src="/assets/img/sponsors/{{ sponsor.img }}" alt="{{sponsor.name}}" /></a>
+        <a href="{{ sponsor.url }}">
+            {% if sponsor.img %}
+            <img src="/assets/img/sponsors/{{ sponsor.img }}" style="width: 100%" alt="{{sponsor.name}}" />
+            {% else %}
+                <strong>{{ sponsor.name }}</strong>
+            {% endif %}
+            </a>
     </div>
+{% endfor %}
     </div>
 {% endfor %}
 </div>

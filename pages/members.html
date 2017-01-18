@@ -7,12 +7,17 @@ permalink: /members/
 
 {% for member in site.data.members %}
 	{% if member.previous_member == false %}
-
 	<div class="row">
 	<div class="col-md-4 col-sm-12 col-xs-12">
-		<div class="thumbnail img-responsive" style="float:left; margin-right:25px; margin-top:50px;">
+	{% capture p %}/assets/img/people/{{ member.Name|slugify }}.jpg{% endcapture %}
+	{% for static_file in site.static_files %}
+    {% if static_file.path == p %}
+        {% assign favicon = true %}
+		<div class="thumbnail img-responsive" style="float:left; margin-right:25px; margin-top:20px;">
 			<img src="/assets/img/people/{{ member.Name|slugify }}.jpg" alt="{{ member.Name }}" />
 		</div>
+	    {% endif %}
+	{% endfor %}
 	</div>
 
 	<div class="col-md-8 col-sm-12 col-xs-12">
@@ -38,8 +43,8 @@ permalink: /members/
 			</a>
 			</li>
 		{% endif %}
+		<li>{{ member.Institution}}</li>
 		</ul>
-		<p>{{ member.Description }}</p>
 
 	</div>
 	</div>
