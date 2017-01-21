@@ -84,8 +84,10 @@
   Roles: Member
 
 - Name: Joshua Eassa
+  Institution: University of Chicago
   previous_member: False
-  Roles: Member
+  Email: joshuaeassa@gmail.com
+  Roles: "Member"
 
 - Name: Brian Ferguson
   previous_member: False
@@ -102,13 +104,6 @@
   Institution: Northwestern University
   previous_member: False
   Email: siwei.zhang84@gmail.com
-  Roles: "Member"
-
-
-- Name: Joshua Eassa
-  Institution: University of Chicago
-  previous_member: False
-  Email: joshuaeassa@gmail.com
   Roles: "Member"
 
 
