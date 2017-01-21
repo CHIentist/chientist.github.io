@@ -77,12 +77,13 @@
 - Name: Jing Li
   Institution: University of Illinois at Chicago
   Roles: "Member"
-  Email: adesgard@gmail.com 
+  Email: jingl@uic.edu  
   previous_member: False
 
 - Name: Aurelie Desgardin
   Institution: University of Chicago
   previous_member: False
+  Email: adesgard@gmail.com 
   Roles: Member
 
 - Name: Joshua Eassa
