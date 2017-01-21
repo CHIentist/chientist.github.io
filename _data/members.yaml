@@ -17,6 +17,7 @@
 - Name: Kevin Lei
   previous_member: False
   Institution: University of Chicago
+  Email: leik@uchicago.edu 
   Roles: 
     - "Treasurer"
   Chair: 
@@ -39,6 +40,7 @@
 - Name: Daniel Cook
   Institution: Northwestern University
   previous_member: False
+  Email: danielecook@gmail.com 
   Roles: "Chair Public Communications"
 
 
@@ -64,6 +66,7 @@
 - Name: Carole Deyts
   Institution: University of Chicago 
   Roles: "Member"
+  Email: caroledeyts@gmail.com 
   previous_member: False
 
 
