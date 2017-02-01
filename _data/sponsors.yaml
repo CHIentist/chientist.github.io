@@ -22,7 +22,7 @@
     img: promega.jpg
     url: http://promega.com/
   - name: NUPF
-    img: NUPF-logo-big.jpg
+    img: NUPF_logo_big.jpg
     url: http://www.nupf.org/
   - name: University of Chicago Biotechnology Association
     img: ucba.jpg
