@@ -9,13 +9,13 @@
 
 
 - Name: Alex Gileta
-  previous_member: False
+  previous_member: True
   Roles: "Secretary"
   Institution: University of Chicago
   Email: alex.gileta@gmail.com
 
 - Name: Kevin Lei
-  previous_member: False
+  previous_member: True
   Institution: University of Chicago
   Email: leik@uchicago.edu 
   Roles: 
@@ -47,7 +47,7 @@
   Email: grewalsynapse@gmail.com
 
 - Name: Brian Cheng
-  previous_member: False
+  previous_member: True
   Roles: Member
   Institution: University of Chicago
   LinkedIn: brian-cheng-73798828
@@ -63,7 +63,7 @@
   Institution: University of Chicago 
   Roles: "Member"
   Email: caroledeyts@gmail.com 
-  previous_member: False
+  previous_member: True
 
 
 - Name: Hyunjin Kim
@@ -124,7 +124,7 @@
 
 - Name: Qixin He
   Institution: The University of Chicago
-  previous_member: False
+  previous_member: True
   Email: heqixin@gmail.com 
   Roles: "Member"
 
