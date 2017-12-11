@@ -10,7 +10,6 @@
 
 - Name: Alex Gileta
   previous_member: True
-  Roles: "Secretary"
   Institution: University of Chicago
   Email: alex.gileta@gmail.com
 
@@ -18,22 +17,19 @@
   previous_member: True
   Institution: University of Chicago
   Email: leik@uchicago.edu 
-  Roles: 
-    - "Treasurer"
-  Chair: 
-    - "Treasury/Finance"
+
 
 - Name: Ana Vicente-Sanchez
   previous_member: False
   Institution: Northwestern University
-  Roles: "Chair Fundraising Committee"
+  Roles: "Outreach"
   Email: ana.vicente.sanchez@gmail.com
 
 
 - Name: Katie Bailey
   previous_member: False
   Institution: University of Chicago
-  Roles: "Chair Events Committee"
+  Roles: "Secretary"
   Email: bailey.kathleenann@gmail.com
 
 
@@ -43,7 +39,7 @@
 - Name: Harinder S Grewal
   Institution: University of Illinois at Chicago
   previous_member: False
-  Roles: Member
+  Roles: "Events"
   Email: grewalsynapse@gmail.com
 
 - Name: Brian Cheng
@@ -55,7 +51,7 @@
 - Name: Manuela Ayee
   Email: manayee@gmail.com
   Institution: University of Illinois at Chicago
-  Roles: "Member"
+  Roles: "Treasurer"
   previous_member: False
 
 
@@ -109,7 +105,7 @@
   previous_member: False
   Email: siwei.zhang84@gmail.com
   Roles: "Member"
-
+  LinkedIn: siweiz
 
 - Name: Andre Iovane
   Roles: "Managing Director"
@@ -132,3 +128,15 @@
   Institution: Northwestern University
   previous_member: True
   Email: danielecook@gmail.com 
+  
+  - Name: Irena Antic
+    previous_member: False
+    Roles: "Member"
+
+  - Name: Lari de Wet
+    previous_member: False
+    Roles: "Member"
+    
+  - Name: Rama Sashank
+    previous_member: False
+    Roles: "Member"
