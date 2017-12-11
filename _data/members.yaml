@@ -99,7 +99,6 @@
   Roles: "Member"
   Institution: University of Chicago
 
-
 - Name: Siwei Zhang
   Institution: NorthShore University Hospital System
   previous_member: False
@@ -129,14 +128,14 @@
   previous_member: True
   Email: danielecook@gmail.com 
   
-  - Name: Irena Antic
-    previous_member: False
-    Roles: "Member"
+- Name: Irena Antic
+  previous_member: False
+  Roles: "Member"
 
-  - Name: Lari de Wet
-    previous_member: False
-    Roles: "Member"
+- Name: Lari de Wet
+  previous_member: False
+  Roles: "Member"
     
-  - Name: Rama Sashank
-    previous_member: False
-    Roles: "Member"
+- Name: Rama Sashank
+  previous_member: False
+  Roles: "Member"
