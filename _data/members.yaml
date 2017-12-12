@@ -7,34 +7,22 @@
   Email: davidpsullivan2@gmail.com
   LinkedIn: david-sullivan-0aab4833
 
-
-- Name: Alex Gileta
-  previous_member: True
-  Institution: University of Chicago
-  Email: alex.gileta@gmail.com
-
-- Name: Kevin Lei
-  previous_member: True
-  Institution: University of Chicago
-  Email: leik@uchicago.edu 
-
-
-- Name: Ana Vicente-Sanchez
-  previous_member: False
-  Institution: Northwestern University
-  Roles: "Outreach"
-  Email: ana.vicente.sanchez@gmail.com
-
-
 - Name: Katie Bailey
   previous_member: False
   Institution: University of Chicago
   Roles: "Secretary"
   Email: bailey.kathleenann@gmail.com
-
-
-
-
+  
+- Name: Manuela Ayee
+  Email: manayee@gmail.com
+  Institution: University of Illinois at Chicago
+  Roles: "Treasurer"
+ 
+- Name: Ana Vicente-Sanchez
+  previous_member: False
+  Institution: Northwestern University
+  Roles: "Outreach"
+  Email: ana.vicente.sanchez@gmail.com
 
 - Name: Harinder S Grewal
   Institution: University of Illinois at Chicago
@@ -47,13 +35,6 @@
   Roles: Member
   Institution: University of Chicago
   LinkedIn: brian-cheng-73798828
-
-- Name: Manuela Ayee
-  Email: manayee@gmail.com
-  Institution: University of Illinois at Chicago
-  Roles: "Member"
-  previous_member: False
-
 
 - Name: Carole Deyts
   Institution: University of Chicago 
@@ -88,7 +69,7 @@
   Roles: "Member"
 
 - Name: Brian Ferguson
-  previous_member: False
+  previous_member: True
   Email: bsf@uic.edu 
   Institution: University of Illinois at Chicago
   Roles: Member
@@ -122,6 +103,17 @@
   previous_member: True
   Email: heqixin@gmail.com 
   Roles: "Member"
+  
+  
+- Name: Alex Gileta
+  previous_member: True
+  Institution: University of Chicago
+  Email: alex.gileta@gmail.com
+
+- Name: Kevin Lei
+  previous_member: True
+  Institution: University of Chicago
+  Email: leik@uchicago.edu 
 
 - Name: Daniel Cook
   Institution: Northwestern University
