@@ -76,7 +76,7 @@
   Roles: Member
 
 - Name: Abir Mukherjee
-  previous_member: False
+  previous_member: True
   Email: mukherjeeabir01@gmail.com
   Roles: "Member"
   Institution: University of Chicago
@@ -122,7 +122,7 @@
   Email: danielecook@gmail.com 
   
 - Name: Irena Antic
-  previous_member: False
+  previous_member: True
   Institution: Fusion Academy
   Roles: "Member"
   Email: irenaantic2012@u.northwestern.edu
